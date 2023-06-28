@@ -1,0 +1,12 @@
+.ocultar{
+    display: none;
+}
+.mostrar{
+    display:block;
+}
+.body{
+    background-color: springgreen;
+    margin: 50px;
+}
+
+ 
